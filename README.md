@@ -3,9 +3,10 @@
 This repository contains code and resources related to the development of machine learning models for the detection of Alzheimer's disease using Convolutional Neural Networks (CNNs).
 
 ## Requirements
-- Python 3.x
-- Tensorflow
-- Keras
+- Python 3.x 
+- Tensorflow  ```pip install tensorflow```
+- Keras       ```pip install keras```
+
 
 ## Dataset
 The dataset used in this project is the Alzheimer's Disease Neuroimaging Initiative (ADNI) dataset, which contains MRI images from multiple sites across the US and Canada. The dataset includes images from both Alzheimer's patients and healthy controls.
