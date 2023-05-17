@@ -4,8 +4,15 @@ This repository contains code and resources related to the development of machin
 
 ## Requirements
 - Python 3.x 
-- Tensorflow  ```pip install tensorflow```
-- Keras       ```pip install keras```
+- Tensorflow   ```pip install tensorflow```
+- Keras        ```pip install keras```
+- Seaborn      ```pip install seaborn```
+- Scikit-learn ```pip install scikit-learn```
+- Scikit-image ```pip install scikit-image```
+- Tqdm         ```pip install tqdm```
+
+
+
 
 
 ## Dataset
