@@ -10,6 +10,8 @@ This repository contains code and resources related to the development of machin
 - Scikit-learn ```pip install scikit-learn```
 - Scikit-image ```pip install scikit-image```
 - Tqdm         ```pip install tqdm```
+- Pydot        ```pip install pydot```
+- Graphviz     [here](https://graphviz.gitlab.io/download/)
 
 
 
