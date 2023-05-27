@@ -24,7 +24,7 @@ For GPU Training:
 Alzheimer MRI Preprocessed Dataset (128 x 128)
 
 - The Data is collected from several websites/hospitals/public repositories.
-- The Dataset is consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.
+- The Dataset consists of Preprocessed MRI (Magnetic Resonance Imaging) Images.
 - All the images are resized into 128 x 128 pixels.
 -The Dataset has four classes of images.
 - The Dataset is consists of total 6400 MRI images.
