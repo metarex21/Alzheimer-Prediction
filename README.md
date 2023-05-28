@@ -12,11 +12,9 @@ This repository contains code and resources related to the development of machin
 - Pydot        ```pip install pydot```
 - Graphviz     [here](https://graphviz.gitlab.io/download/)
 
-For GPU Training:
+## For GPU Training:
+### Follow this Tutorial: [here](https://youtu.be/hHWkvEcDBO0)
 - CUDA Toolkit [here](https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
-
-
-
 
 
 ## Dataset [here](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset)
