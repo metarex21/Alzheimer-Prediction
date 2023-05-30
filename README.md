@@ -48,7 +48,9 @@ The main motive behind sharing this dataset is to design/develop an accurate fra
 The code in this repository includes data preprocessing, image augmentation, model creation and evaluation using CNNs, and transfer learning techniques. The CNN models are implemented using the Keras API in Tensorflow. Transfer learning is performed using pre-trained CNN models such as VGG and ResNet.
 
 ## Results
-The results of the experiments conducted using CNN models are presented in the form of evaluation metrics such as accuracy, precision, recall, and F1 score. The performance of the models is compared to existing state-of-the-art methods for Alzheimer's detection.
-
+The results of the experiments conducted using CNN models are presented in the form of accuracy and loss as shown below:<br></br>
+- **Validation loss:** 0.0687 or **6.87%**
+- **Validation accuracy:** 0.9805 or **98.05%**
+- **Number of misclassified images:** 25 of 1280
 ## Conclusion
 This repository provides a comprehensive framework for the development and evaluation of machine learning models for Alzheimer's disease detection using CNNs. The code and resources in this repository can be used as a starting point for further research and development in this area.
